@@ -1,0 +1,26 @@
+Transition in CSS:
+
+- Transition
+- transition-duration
+- transition-delay
+- transition-property
+- transition-timing-property : ease,ease-in, ease-in-out, linear, cubic-bezier
+
+Transform : 
+
+- roatate
+- rotateX
+- rotateY
+- scale, scaleX, scaleY
+- translate, translateX, translateY
+
+
+Animation in CSS: 
+
+animation-name
+animation-duration
+animation-timing-function
+animation-iteration-count
+animation-fill-mode
+animation-direction
+animation-delay
